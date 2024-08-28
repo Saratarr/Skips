@@ -41,7 +41,7 @@ public class skipInput {
             System.out.println("The current total value is: " + total);
             skipMenu();
         }
-        else (choice > 4) {
+        else (choice >= 5) {
             System.out.println(skipInput.e);
             skipMenu();
 
