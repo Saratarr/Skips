@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class Main {
 
-    String a = ("1. Select Skip Amount \n");
+    String a = ("1. Select Skip Total Amount \n");
     String b = ("2. Skip 5 Times \n");
-    String c = ("3. Edit Skip Amount \n");
+    String c = ("3. Edit Skip Total Amount \n");
     String d = ("4. Show Total \n");
     String e = ("\tInvalid input entered. Please choose a valid input from the main menu.");
 

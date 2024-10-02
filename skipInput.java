@@ -19,7 +19,7 @@ public class skipInput {
             int skipAmount = scanner.nextInt();
             // MATH for skipAmount value
             System.out.println("Skip value is set at " + skipAmount);
-            skipMenu();
+            new skipMenu();
         }
         else if (choice == 2) {
             System.out.println(skipInput.b);
